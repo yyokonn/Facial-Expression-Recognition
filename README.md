@@ -8,7 +8,7 @@
 - Karolinska Directed Emotional Faces (KDEF):(https://www.kdef.se)
 - MaskTheFace module by Aqeel Anwar for applying masks onto facial images: (https://github.com/aqeelanwar/MaskTheFace)
 
-<img src="img/data.png" align="center" width="300">
+<img src="img/data.png" align="center" width="400">
 
 **Programs**:
 - Emotion_Recognition.py: Training on one of the models-Naive Bayes, Logistic Regression, Random Forest, K-Means, SVM
